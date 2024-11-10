@@ -7,7 +7,7 @@ Meu nome é Nathan William
 - Estou me desenvolvendo em Python para a criação de softwares 🖥️
 - Sempre busco aprender novas coisas! ⭐
 
-![](file:///C:/Users/Samsung/Downloads/6efed041cb751e38c412347272731836_t.jpeg)
+![](https://thumb.photo-ac.com/6e/6efed041cb751e38c412347272731836_t.jpeg)
 
 <!--
 **nathan-william/nathan-william** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
