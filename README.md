@@ -2,8 +2,7 @@
 
 Meu nome é Nathan William
 
-- Estou estudando na Alura 💙
-- Estou me desenvolvendo em línguaguens como LUA e GML para o desenvolvimento de jogos 🎮
+- Estou me desenvolvendo em Godot para o desenvolvimento de jogos 🎮
 - Estou me desenvolvendo em Python para a criação de softwares 🖥️
 - Sempre busco aprender novas coisas! ⭐
 
